@@ -1,0 +1,53 @@
+body{
+    background-color: black;
+    text-align: center;
+    font-family: 'Wix Madefor Display', sans-serif;
+    font-size: 48px;
+    color: rgb(65, 223, 65);
+}
+
+form{
+    display: inline-block;
+    color: white;
+    margin:auto;
+    
+}
+
+input{
+    font-size: 32px;
+}
+
+#remove-btn{
+    margin: auto 0;
+    background-color: rgb(65, 223, 65);
+    color: white;
+    
+}
+
+#search-btn{
+    margin: auto 0;
+    background-color: rgb(65, 223, 65);
+    color: white;
+  
+}
+
+   
+
+li{
+    list-style-type: none;
+    display: inline;
+    max-width: 100px;
+    margin: 10px;
+
+}
+
+
+#search-btn:hover{
+   background-color: darkgreen;
+   color:black;
+}
+
+#remove-btn:hover{
+    background-color: darkgreen;
+    color :black;
+}
